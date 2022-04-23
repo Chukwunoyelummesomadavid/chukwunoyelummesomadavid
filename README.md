@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Facebook
 - 🤔 I’m looking for help with scripting
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me: facebook:meso david
+- 📫 How to reach me: https://web.facebook.com/profile.php?id=100073167223696
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: i love coding, playing video games and hanging out with the family
 -->
