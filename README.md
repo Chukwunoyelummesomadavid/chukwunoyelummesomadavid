@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning solidity(ehereum smart contract)
-- 👯 I’m looking to collaborate on Facebook
+- 🔭 I’m currently working on solidity(ethereum smart contracts)
+- 🌱 I’m currently learning solidity(ethereum smart contract)
+- 👯 I’m looking to collaborate on facebook
 - 🤔 I’m looking for help with scripting
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: https://web.facebook.com/profile.php?id=100073167223696
